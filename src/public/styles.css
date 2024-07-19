@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 20px;
+}
+
+.audio button{
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+    background-color: antiquewhite;
+}
+
+.logs{
+    width: 300px;
+    height: 250px;
+
+    background-color: black;
+    color: white;
+    padding: 20px;
+}

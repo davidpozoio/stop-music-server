@@ -1,0 +1,21 @@
+{
+  "name": "stop-music-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "execute-command-sync": "^1.0.2",
+    "express": "^4.19.2",
+    "form-data": "^4.0.0",
+    "multer": "1.4.5-lts.1",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5"
+  }
+}
